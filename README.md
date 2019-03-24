@@ -6,3 +6,4 @@ and my sister's name is Oliwia
 miku fiku na patyku
 musztardeczka i keczupik
 pasi konik lubi monike
+lubie jesc pyszne rzeczy rozne

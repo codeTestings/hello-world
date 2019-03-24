@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello-world
 my name is Pat and I like to teach my self new stuff.
 I like to listen electronic music.
@@ -13,3 +14,5 @@ makarene to by zatanczyl dzis z kims
 maszkarada z tej olki jednak chyba
 mieszkam w polsce
 no i po co te commity, a wlasnie po to
+=======
+>>>>>>> dda864bfd83d1deaa54a5bffd6275582bab07eb3

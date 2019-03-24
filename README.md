@@ -11,3 +11,4 @@ a po co mi ktos jak moge jesc co chce
 a wez pan w ogole do mnie sie nie odzywaj
 makarene to by zatanczyl dzis z kims
 maszkarada z tej olki jednak chyba
+mieszkam w polsce

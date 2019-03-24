@@ -8,3 +8,4 @@ musztardeczka i keczupik
 pasi konik lubi monike
 lubie jesc pyszne rzeczy rozne
 a po co mi ktos jak moge jesc co chce
+a wez pan w ogole do mnie sie nie odzywaj

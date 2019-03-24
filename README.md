@@ -12,4 +12,4 @@ a wez pan w ogole do mnie sie nie odzywaj
 makarene to by zatanczyl dzis z kims
 maszkarada z tej olki jednak chyba
 mieszkam w polsce
-no i po co te commity
+no i po co te commity, a wlasnie po to
